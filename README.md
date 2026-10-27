@@ -2,10 +2,18 @@
 
 Este repositório reúne os relatórios de avaliação das atividades de monitoria realizadas nos cursos de graduação e pós-graduação da FGV EPGE.
 
-Relatórios de avaliação (2026):
+## Relatórios de avaliação (2026)
 
-Contabilidade Social — Graduação
+Graduação
 
-Estatística — Mestrado e Doutorado Profissional
+- [Contabilidade Social — Acessar relatório](avaliacao_contabilidade_social.pdf)
 
-Econometria — Mestrado e Doutorado Profissional
+Mestrado Profissional
+
+- [Estatística — Acessar relatório](avaliacao_estatistica.pdf)
+- [Econometria — Acessar relatório](avaliacao_econometria.pdf)
+
+Doutorado Profissional
+
+- [Estatística — Acessar relatório](avaliacao_estatistica_doutorado.pdf)
+- [Econometria — Acessar relatório](avaliacao_econometria_doutorado.pdf)
